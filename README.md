@@ -1,6 +1,6 @@
 # codedamn - Astral Portfolio Project
 
-![Design for the project](https://raw.githubusercontent.com/codedamn-projects/astral-portfolio-project/master/assets/desktop-design-non-fs.jpg)
+![image](https://github.com/Frontend-mini-projects/Astral_Portfolio_Page/assets/63789702/0e19fb7e-47f3-4729-9e56-42416be5d3e8)
 
 ## Hello developer!
 
